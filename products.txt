@@ -1,1 +1,1 @@
-"Fruits-apple,orange" 
+"fruits - mango, apple" 
